@@ -6,7 +6,7 @@
 
 </h3>
 
-<h4>Questo è il mio spazio personale su GitHub dove puoi trovare una selezione dei miei progetti, competenze e esperienze.</h4>
+<h4>Questo è il mio spazio personale su GitHub dove trovare una selezione dei miei progetti, competenze e esperienze.</h4>
 
 ---
 
@@ -17,7 +17,7 @@
 
 - 🎓 Formazione: certificazione full-stack web developer presso **EPICODE**, studentessa presso **RomaLuiss42**
 
-- 💻 Competenze: **HTML5| CSS3 | Javascript | React | Bootstrap | Node js | Express | Mongo DB | API | Axios**
+- 💻 Competenze: C# | **HTML5| CSS3 | Javascript | React | Bootstrap | Node js | Express | Mongo DB | API | Axios**
 
 - ⚡ Fun fact --> **Living in a van 🚌 Sono una surfer 🏄‍♀️ sto realizzando il mio sogno di essere una Digital Nomad 🚀**
 
