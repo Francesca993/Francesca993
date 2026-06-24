@@ -1,8 +1,8 @@
 <h1 align="center">👋 Ciao, sono Francesca! </h1>
 
-<h3 align="center">Benvenuta/o nel mio angolo su GitHub! 🎉
+<h3 align="center">Benvenuta/o nel mio spazio su GitHub 🚀
   
-**Sono una Junior Full-Stack Web Developer 🚀**
+**Sono una Junior Software Developer in formazione, in cerca di un'opportunità di crescita in un contesto tecnico dinamico.🚀**
 
 </h3>
 
@@ -12,16 +12,27 @@
 
 ##  👩‍💻 Su di me
 
+- 🌱 Studentessa presso **42 Roma Elis** (project-based learning: C/C++, Linux, debugging, gestione memoria e processi, algoritmi)
 
-- 🌱 Giovane studentessa **Full Stack Web Developers**
-
-- 🎓 Formazione: certificazione full-stack web developer presso **EPICODE**, studentessa presso **RomaLuiss42**
-
-- 💻 Competenze: C | C++ | **HTML5| CSS3 | Javascript | React | Bootstrap | Node js | Express | Mongo DB | API | Axios**
-
-- ⚡ Fun fact --> **Living in a van 🚌 Sono una surfer 🏄‍♀️ sto realizzando il mio sogno di essere una Digital Nomad 🚀**
+- 🎓 Certificazione **Full Stack Web Developer** presso **EPICODE** (87/100)
+  
+- 🛠️ **Stack:** C / C++ · Linux · Shell · Docker · JavaScript (ES6+) · React · Node.js · Express · HTML5 · CSS3 · API REST
+  
+- 🤖 Uso l'IA in modo costruttivo per studio, ricerca e debugging
+  
+- 📍 Roma - Milano
+  
+- ⚡ Fun fact: sto realizzando il mio sogno di Digital Nomad, vivendo on the road in un van 🚐🏔️
 
 - 📫 Contattami: **montinifrancesca993@gmail.com**
+
+---
+
+<div align="center">
+	
+[![fmontini's 42 stats](https://badge.mediaplus.ma/darkgray/fmontini)](https://github.com/oakoudad/badge42)	
+
+</div>
 
 ---
 
@@ -61,9 +72,15 @@
 </div>
 
 ---
+ 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Francesca993&radius=16&theme=tokyo-night&area=true&order=1" height="300" alt="activity graph"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Francesca993&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Francesca993&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francesca993&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=francesca993&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francesca993&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=francesca993&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
