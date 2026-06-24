@@ -22,7 +22,7 @@
   
 - 📍 Roma - Milano
   
-- ⚡ Fun fact: sto realizzando il mio sogno di Digital Nomad, vivendo on the road in un van 🚐🏔️
+- ⚡ Fun fact: sto realizzando il mio sogno di Digital Nomad 🚐🏔️
 
 - 📫 Contattami: **montinifrancesca993@gmail.com**
 
